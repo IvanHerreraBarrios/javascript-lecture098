@@ -1,3 +1,5 @@
+
+
 var deleteMiddle = function (head) {
     const length = calculateLength(head)
     if (length === 1) return null
